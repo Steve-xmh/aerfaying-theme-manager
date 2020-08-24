@@ -1,0 +1,9 @@
+.ts-out/
+node_modules/
+scripts/
+src/
+package.json
+tsconfig.json
+yarn.lock
+aerfaying-theme-manager.js
+aerfaying-theme-manager.min.js
