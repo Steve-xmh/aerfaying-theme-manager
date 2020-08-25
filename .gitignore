@@ -7,3 +7,4 @@ tsconfig.json
 yarn.lock
 aerfaying-theme-manager.js
 aerfaying-theme-manager.min.js
+aerfaying-theme-manager.min.user.js
