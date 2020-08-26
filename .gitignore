@@ -2,9 +2,12 @@
 node_modules/
 scripts/
 src/
+libs/
 package.json
 tsconfig.json
 yarn.lock
 aerfaying-theme-manager.js
 aerfaying-theme-manager.min.js
 aerfaying-theme-manager.min.user.js
+aerfaying-theme-manager.d.ts
+aerfaying-theme-manager.tsbuildinfo
