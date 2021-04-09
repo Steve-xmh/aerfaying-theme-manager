@@ -12,7 +12,7 @@ A tool to modify the theme of the aerfaying/gitblock community website.
 
 ![Preview #0](img/preview-0.png)
 ![Preview #1](img/preview-1.png)
-![Preview #2](img/review-2.png)
+![Preview #2](img/preview-2.png)
 
 </p>
 
