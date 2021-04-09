@@ -6,9 +6,15 @@
     </div>
 </h1>
 
-A tool to modify the theme of the aerfaying community website.
+A tool to modify the theme of the aerfaying/gitblock community website.
 
-![Preview #0](preview-0.png)
+<p align="center">
+
+![Preview #0](img/preview-0.png)
+![Preview #1](img/preview-1.png)
+![Preview #2](img/review-2.png)
+
+</p>
 
 Currently in development, only support partal dark theme.
 
